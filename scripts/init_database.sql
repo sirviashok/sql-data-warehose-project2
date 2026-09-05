@@ -1,4 +1,8 @@
+/*
+Creating DataWarehouse for learning purpose and 
+Createting bronze, silver and gold schemas
 
+*/
 Use master;
 
 create database DataWarehouse;
